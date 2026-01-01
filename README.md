@@ -12,7 +12,6 @@ I specialize in full-stack development with React.js, Next.js, and Node.js, buil
 * ⚡  I’m interested in building Web Apps, AI-powered tools, and collaborating on tech projects
 
 ### Skills
-### Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
