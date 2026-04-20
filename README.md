@@ -12,11 +12,14 @@ I specialize in full-stack development with React.js, Next.js, and Node.js, buil
 * ⚡  I’m interested in building Web Apps, AI-powered tools, and collaborating on tech projects
 
 ### Skills
-
-![TS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
-![JS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
-![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)
-![Next](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
-![Node](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
-![Tailwind](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)
-![Mongo](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/></td>
+    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/></td>
+  </tr>
+</table>
