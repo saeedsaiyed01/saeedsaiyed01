@@ -7,7 +7,7 @@ Full Stack Developer
 I specialize in full-stack development with React.js, Next.js, and Node.js, building scalable web applications with modern UI and backend architectures. I have experience working with REST APIs, AI-powered features, and performance-focused interfaces.
 
 * 🌍  I'm based in Gujarat
-* 🖥️  See my portfolio at [saeedsaiyed.me](https://saeedsaiyed.me)
+* 🖥️  See my portfolio at [saeedsaiyed.me](https://saeedsaiyed.in)
 * ✉️  You can contact me at [saeedsaiyed518@gmail.com](mailto:saeedsaiyed518@gmail.com)
 * ⚡  I’m interested in building Web Apps, AI-powered tools, and collaborating on tech projects
 
